@@ -2,11 +2,11 @@
 
 ### *Welcome to ION-Canion*
 
--> Server information.
--> Urls.
--> Subdomains.
--> Open the images in the browser.
--> Downloads the images.
+* -> Server information.
+* -> Urls.
+* -> Subdomains.
+* -> Open the images in the browser.
+* -> Downloads the images.
 
 
 
