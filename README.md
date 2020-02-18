@@ -12,7 +12,7 @@
 
 
 
-![alt text](https://github.com/NoSoyDani/Scraper/blob/master/o.PNG)
+![alt text](https://github.com/NoSoyDani/Scraper/blob/master/images/o.PNG)
 
 
 # Beta Version
