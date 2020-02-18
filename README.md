@@ -11,7 +11,7 @@
 ### *How to install?*
 
 * 1º Install the requirements
-* 2º Start Threading
+* 2º Start Threading.py
 * 3º Enjoy!
 
 
