@@ -9,10 +9,16 @@
 * Downloads the images.
 
 
+* 1º Install the requirements
+* 2º Start Threading
+* 3º Enjoy!
 
 
 
-![alt text](https://github.com/NoSoyDani/Scraper/blob/master/images/o.PNG)
+![alt text](https://github.com/NoSoyDani/Scraper/blob/tree/master/images/o.PNG)
 
 
 # Beta Version
+
+[x] Avaliable for Windows 10.
+[ ] Avaliable for Linux.(In process)
