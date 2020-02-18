@@ -10,9 +10,9 @@
 
 ### *How to install?*
 
-* 1º Install the requirements
-* 2º Start Threading.py
-* 3º Enjoy!
++ 1º Install the requirements
++ 2º Start Threading.py
++ 3º Enjoy!
 
 
 
