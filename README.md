@@ -8,7 +8,7 @@
 * Open the images in the browser.
 * Downloads the images.
 
-### *How to install?
+### *How to install?*
 
 * 1º Install the requirements
 * 2º Start Threading
@@ -16,7 +16,7 @@
 
 
 
-![alt text](https://github.com/NoSoyDani/Scraper/blob/tree/master/images/o.PNG)
+![alt text](https://github.com/NoSoyDani/Scraper/blob/master/images/o.png)
 
 
 # Beta Version
