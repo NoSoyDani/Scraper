@@ -8,6 +8,7 @@
 * Open the images in the browser.
 * Downloads the images.
 
+### *How to install?
 
 * 1º Install the requirements
 * 2º Start Threading
@@ -20,5 +21,5 @@
 
 # Beta Version
 
-[x] Avaliable for Windows 10.
-[ ] Avaliable for Linux.(In process)
+* [x] Avaliable for Windows 10.
+* [ ] Avaliable for Linux.(In process)
